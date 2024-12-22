@@ -1,0 +1,99 @@
+{
+	"purchase_order": "3797",
+	"invoice_date": "3/11/2024",
+	"vendor_address": "6574 N State Road 7 # 131 Coconut Creek, FL 33073-3625 US",
+	"vendor_name": "AOLI",
+	"order_line_items": [
+		{
+			"product_code": "P-104",
+			"description": "Potenza L Shape Desk w/ BBF and FF Pedestal (66x30 desk, 24x42 return) Espresso",
+			"qty": "2",
+			"price": "726.75",
+			"amount": "1,453.50"
+		},
+		{
+			"product_code": "CD-P72HL",
+			"description": "Potenza 72" Hutch with Laminate Doors - Espresso",
+			"qty": "2",
+			"price": "444.13",
+			"amount": "888.26"
+		},
+		{
+			"product_code": "CD-411B",
+			"description": "Moderno Ergonomic Task Chair Black Mesh Back/ Black Seat",
+			"qty": "2",
+			"price": "259.25",
+			"amount": "518.50"
+		},
+		{
+			"product_code": "CD-309GB",
+			"description": "Zetti Leather Ribbed Back Guest Chair - Black",
+			"qty": "4",
+			"price": "191.25",
+			"amount": "765.00"
+		},
+		{
+			"product_code": "CD-PIAZZA1B",
+			"description": "Piazza Club Chair Black",
+			"qty": "5",
+			"price": "422.88",
+			"amount": "2,114.40"
+		},
+		{
+			"product_code": "CD-PIAZZA2",
+			"description": "CD Love Seat - black",
+			"qty": "1",
+			"price": "616.25",
+			"amount": "616.25"
+		},
+		{
+			"product_code": "CD -SCT2442C",
+			"description": "Corp Design Sereno Glass Top Coffee Table",
+			"qty": "2",
+			"price": "231.63",
+			"amount": "463.26"
+		},
+		{
+			"product_code": "P-104",
+			"description": "Potenza L Shape Desk w/ BBF and FF Pedestal (66x30 desk, 24x42 return) Espresso",
+			"qty": "1",
+			"price": "726.75",
+			"amount": "726.75"
+		},
+		{
+			"product_code": "CD-RS3060",
+			"description": "Corp Design Universal Rectangular Worksurface 30x60 Espresso",
+			"qty": "1",
+			"price": "89.25",
+			"amount": "89.25"
+		},
+		{
+			"product_code": "CD-P3422-LT",
+			"description": "Laminate Top for 2 drawer lateral file - Espresso",
+			"qty": "1",
+			"price": "65.88",
+			"amount": "65.88"
+		},
+		{
+			"product_code": "CD-P3422L-1",
+			"description": "2 Drawer Lateral Filing Cabinet (34x22x29) Espresso",
+			"qty": "1",
+			"price": "318.75",
+			"amount": "318.75"
+		},
+		{
+			"product_code": "CD-411B",
+			"description": "Moderno Ergonomic Task Chair Black Mesh Back/ Black Seat",
+			"qty": "1",
+			"price": "259.25",
+			"amount": "259.25"
+		},
+		{
+			"product_code": "CD-309GB",
+			"description": "Zetti Leather Ribbed Back Guest Chair - Black",
+			"qty": "2",
+			"price": "191.25",
+			"amount": "382.50"
+		}
+	]
+}
